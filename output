@@ -1,0 +1,29 @@
+	 The Result is: -81
+The Result Matrix is:
+	2 4 6 
+	8 11 13 
+***Error:Dimensions are not consistant for addition. The result contains the first matrix.***
+The Result Matrix is:
+	1 2 3 
+	1 2 3 
+The Result Matrix is:
+	0 0 0 
+	-6 -7 -7 
+***Error:Dimensions are not consistant for subtraction. The result contains the first matrix.***
+The Result Matrix is:
+	1 2 3 
+	1 2 3 
+The Result Matrix is:
+	2 9 
+	4 13 
+***Error:Dimensions are not consistant for multiplication. The result : the first matrix.***
+The Result Matrix is:
+	-1 2 
+	1 2 
+The Result Matrix is:
+	32 32 
+	32 32 
+***Error:Not a square matrix. The result contains the first matrix.***
+The Result Matrix is:
+	2 2 2 
+	2 2 2 
